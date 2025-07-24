@@ -1,5 +1,5 @@
 ### Hola 👋
-Mi repositorio original es *[Mi primer repositorio Github](https://github.com/jolyquine/)*
+Mi repositorio original es *[Mi primer repositorio Github](https://github.com/auroyolimar5/)*
 
 <!--
 **AuroraYolimar/aurorayolimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
